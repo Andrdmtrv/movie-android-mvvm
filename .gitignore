@@ -7,7 +7,7 @@
 /build
 /captures
 .externalNativeBuild
-/gradle
+/gradle/wrapper/gradle-wrapper.jar
 .cxx
 local.properties
 apikey.properties
