@@ -11,5 +11,7 @@
 /build
 /captures
 .externalNativeBuild
+/gradle
 .cxx
 local.properties
+apikey.properties
